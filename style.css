@@ -1,7 +1,8 @@
 body {
-  font-family: helvetica, sans-serif;
+font-family: 'Cormorant Garamond', serif;
   margin: 2em;
   background-color: salmon;
+  font-size: 20px;
 
 }
 
@@ -22,12 +23,12 @@ body {
 }
 h5 {
   color: white;
-  font-style: Georgia;
-  text-align: center;
+font-family: 'Cormorant Garamond', serif;
+text-align: center;
 }
 p {
   color: white;
-  font-style: Georgia;
+font-family: 'Cormorant Garamond', serif;
   position: absolute;
   top: 5;
   bottom: 0;
@@ -41,14 +42,24 @@ h1 {
   color: white;
 }
 h3, li {
-  font-family: 'Barlow Condensed', sans-serif;
+  font-family: 'Cormorant Garamond', serif;
   color: white;
   margin-left: 50;
   margin-right: 50;
 }
-.part1 {
+.part1, .part2{
   width: 800;
 }
 li {
   opacity:0;
+}
+.Anxiety {
+  position: absolute;
+  margin-left: 800;
+  margin-top: 150;
+}
+.Depression {
+  position: absolute;
+  margin-left: 800;
+  margin-top: 150;
 }
