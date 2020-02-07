@@ -60,6 +60,11 @@ li {
 }
 .Depression {
   position: absolute;
-  margin-left: 800;
+  margin-left: 900;
+  margin-top: 150;
+}
+.Schizophrenia {
+  position: absolute;
+  margin-left: 900;
   margin-top: 150;
 }
