@@ -55,5 +55,11 @@ li {
 }
 .Anxiety {
   position: absolute;
-  margin-left: 100px;
+  margin-left: 800;
+  margin-top: 150;
+}
+.depression {
+  position: absolute;
+  margin-left: 800;
+  margin-top: 150;
 }
