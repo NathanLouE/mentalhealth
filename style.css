@@ -1,0 +1,54 @@
+body {
+  font-family: helvetica, sans-serif;
+  margin: 2em;
+  background-color: salmon;
+
+}
+
+.vsc-initialized{
+    background-color: salmon;
+}
+.brain {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.intro {
+  margin: 75px;
+}
+h5 {
+  color: white;
+  font-style: Georgia;
+  text-align: center;
+}
+p {
+  color: white;
+  font-style: Georgia;
+  position: absolute;
+  top: 5;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+  font-style: italic;
+  color: white;
+}
+h3, li {
+  font-family: 'Barlow Condensed', sans-serif;
+  color: white;
+  margin-left: 50;
+  margin-right: 50;
+}
+.part1 {
+  width: 800;
+}
+li {
+  opacity:0;
+}
